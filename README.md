@@ -1,4 +1,12 @@
-### Hi there 👋
+#Portfolio repository
+#####NoYewon
+
+Hi there 👋, thank you for visiting this site.
+
+On this GitHub site, personal assignments or portfolios performed while attending school will be raised.
+
+
+
 
 <!--
 **NoYewon/NoYewon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
