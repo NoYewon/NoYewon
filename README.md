@@ -3,7 +3,6 @@
 
 Hi there 👋, thank you for visiting this site.
 
-On this GitHub site, personal assignments or portfolios performed while attending school will be raised.
 
 
 
